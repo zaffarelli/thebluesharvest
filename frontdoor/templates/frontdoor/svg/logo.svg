@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80mm"
+   height="80mm"
+   viewBox="0 0 80 79.999999"
+   version="1.1"
+   id="svg1149"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1146">
+    <linearGradient
+       id="linearGradient951">
+      <stop
+         style="stop-color:#101010;stop-opacity:1;"
+         offset="0"
+         id="stop947" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop949" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient951"
+       id="linearGradient953"
+       x1="130.4016"
+       y1="118.50978"
+       x2="193.326"
+       y2="118.50978"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-5.035337,1.4102464)" />
+    <linearGradient
+       xlink:href="#linearGradient951"
+       id="linearGradient1024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.1985773,-1.0970634)"
+       x1="130.4016"
+       y1="118.50978"
+       x2="193.326"
+       y2="118.50978" />
+    <linearGradient
+       xlink:href="#linearGradient951"
+       id="linearGradient1028"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.5891537,-27.771494)"
+       x1="130.4016"
+       y1="118.50978"
+       x2="193.326"
+       y2="118.50978" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-79.06802,-76.44966)">
+    <g
+       id="g1220"
+       transform="translate(-56.732869,1.6136397)">
+      <g
+         id="g1234"
+         transform="translate(12.743934,3.1068807)">
+        <g
+           id="g1220-5">
+          <g
+             id="g2929">
+            <g
+               id="g4356">
+              <rect
+                 style="fill-opacity:1;stroke:none;stroke-width:1.10315"
+                 id="rect4244"
+                 width="78.016983"
+                 height="77.680908"
+                 x="121.67525"
+                 y="70.862427" />
+              <ellipse
+                 style="fill:#281d00;fill-opacity:1;stroke:#3a3a3a;stroke-width:3.52087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path32845"
+                 cx="161.22063"
+                 cy="109.70288"
+                 rx="36.378441"
+                 ry="36.579975" />
+              <ellipse
+                 style="fill:#ffffff;fill-opacity:1;stroke:#3a3a3a;stroke-width:1.274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path32845-7-5"
+                 cx="134.08051"
+                 cy="133.01884"
+                 rx="1.794588"
+                 ry="1.8045295" />
+              <ellipse
+                 style="fill:#ffffff;fill-opacity:1;stroke:#3a3a3a;stroke-width:1.274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path32845-7-5-6"
+                 cx="134.08051"
+                 cy="87.807846"
+                 rx="1.794588"
+                 ry="1.8045295" />
+              <ellipse
+                 style="fill:#ffffff;fill-opacity:1;stroke:#3a3a3a;stroke-width:1.274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path32845-7-5-6-9"
+                 cx="187.35289"
+                 cy="87.807846"
+                 rx="1.794588"
+                 ry="1.8045295" />
+              <ellipse
+                 style="fill:#ffffff;fill-opacity:1;stroke:#3a3a3a;stroke-width:1.274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path32845-7-5-6-9-9"
+                 cx="187.35289"
+                 cy="133.01884"
+                 rx="1.794588"
+                 ry="1.8045295" />
+              <ellipse
+                 style="fill:#3f2e00;fill-opacity:1;stroke:none;stroke-width:0.680742;stroke-opacity:1"
+                 id="path30397-2"
+                 cx="10.223193"
+                 cy="207.59572"
+                 rx="9.982954"
+                 ry="7.8409858"
+                 transform="matrix(0.80708384,-0.59043685,0.73496444,0.67810565,0,0)" />
+              <path
+                 style="fill:#3f2e00;fill-opacity:1;stroke:none;stroke-width:0.611211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 166.03241,127.72251 c -5.41118,-20.70114 -18.79156,-46.965205 -18.79156,-46.965205 0,0 4.36391,-4.65998 15.30451,-3.696311 9.36996,0.825313 19.36836,8.837768 19.36836,8.837768 -7.11571,-2.465993 -12.33255,-3.528371 -12.33255,-3.528371 -7.69275,-2.258434 -14.58127,0.411968 -14.58127,0.411968 l 15.61311,48.978191"
+                 id="scythe" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.81944px;line-height:1.25;font-family:erewhon;-inkscape-font-specification:'erewhon, Bold';font-variant-ligatures:normal;font-variant-caps:all-small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc44;fill-opacity:1;stroke:url(#linearGradient1028);stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+               x="134.1456"
+               y="95.712463"
+               id="text16840-2-9"><tspan
+                 id="tspan1030"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.81944px;font-family:erewhon;-inkscape-font-specification:'erewhon, Bold';font-variant-ligatures:normal;font-variant-caps:all-small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:url(#linearGradient1028)"
+                 x="134.1456"
+                 y="95.712463">the</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:erewhon;-inkscape-font-specification:'erewhon, Normal';font-variant-ligatures:normal;font-variant-caps:all-small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc44;fill-opacity:1;stroke:url(#linearGradient953);stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+               x="124.5211"
+               y="124.8942"
+               id="text16840-2"><tspan
+                 id="tspan16838-1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:erewhon;-inkscape-font-specification:'erewhon, Normal';font-variant-ligatures:normal;font-variant-caps:all-small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffcc44;fill-opacity:1;stroke:url(#linearGradient953);stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+                 x="124.5211"
+                 y="124.8942">harvest</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:erewhon;-inkscape-font-specification:'erewhon, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#101010;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+               x="123.39653"
+               y="113.8803"
+               id="blues"><tspan
+                 id="tspan2872-7"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:erewhon;-inkscape-font-specification:'erewhon, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#101010;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+                 x="123.39653"
+                 y="113.8803">BLUES</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

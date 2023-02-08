@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{%  load static %}
+
+
+{% block main %}
+
+            <img src="{% static 'frontdoor/svg/thebluesharvest_logo.svg' %}" width="40%"/>
+            <div class="front_message">
+                Site en construction&nbsp;!
+                <br/><a href="https://www.facebook.com/thebluesharvest" target="_self"><i class="fa-brands fa-facebook"></i></a>
+            </div>
+{% endblock main %}
+
+
+{% block custom_js %}
+<script>
+    _.defer(function () {
+        let co = new Frontdoor()
+        co.perform();
+        co.revealUI();
+    });
+</script>
+{% endblock custom_js %}
