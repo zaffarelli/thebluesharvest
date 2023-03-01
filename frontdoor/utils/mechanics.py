@@ -1,2 +1,2 @@
 
-FONTSET = ['Quicksand', 'Fredoka', 'Syne+Mono', 'Abel', 'Satisfy', 'Prompt', 'Roboto', 'Hubballi', 'Gruppo']
+FONTSET = ['Quicksand', 'Tilt Neon', 'Syne+Mono', 'Abel', 'Satisfy', 'Prompt', 'Roboto', 'Hubballi', 'Gruppo']
