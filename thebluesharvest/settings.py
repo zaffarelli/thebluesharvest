@@ -149,12 +149,12 @@ MEDIA_URL = 'media/'
 STATIC_ROOT = "/srv/thebluesharvest_static/"
 MEDIA_ROOT = "/srv/thebluesharvest_media/"
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_USE_TLS = True
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = "fernando.casabuentes@gmail.com"
-EMAIL_HOST_PASSWORD = "fqyozcbjwflhmmlp"
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_USE_TLS = True
+# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# EMAIL_PORT = 587
+# EMAIL_HOST_USER = "fernando.casabuentes@gmail.com"
+# EMAIL_HOST_PASSWORD = "fqyozcbjwflhmmlp"
 
 LOGGING = {
     'version': 1,
