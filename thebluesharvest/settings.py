@@ -169,7 +169,7 @@ LOGGING = {
         'logfile': {
             'level': 'DEBUG',
             'class': 'logging.handlers.RotatingFileHandler',
-            'filename': "/var/log/thebluesharvest/thebluesharvest.log",
+            'filename': LOGPATH + "rpgsessions.log",
             'maxBytes': 1000000000,
             'backupCount': 3,
             'formatter': 'standard',
