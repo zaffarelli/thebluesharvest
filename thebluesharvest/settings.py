@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-hu6wumha5&*du!!sr%6_+p3e+u*!e0id+pod4pzrwm*$y*2c=v'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -127,11 +127,11 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-VERSION = "0.1"
+VERSION = "0.3"
 
 MEDIA_URL = 'media/'
-STATIC_ROOT = "thebluesharvest_static/"
-MEDIA_ROOT = "thebluesharvest_media/"
+STATIC_ROOT = "/srv/thebluesharvest_static/"
+MEDIA_ROOT = "/srv/thebluesharvest_media/"
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
