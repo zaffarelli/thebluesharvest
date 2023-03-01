@@ -251,13 +251,13 @@
   </g>
 <g id="neons">
 
-    <text x="1.0cm" y="1.9cm" font-size="5" font-weight="800" font-family="Tilt Neon" text-anchor="middle" fill="#000000" stroke="#333333" stroke-width="0.1%">
-      <animate attributeName="fill" values="#000000;#A20000;#000000" dur="3s" repeatCount="indefinite"/>
+    <text x="1.0cm" y="1.9cm" font-size="5" font-weight="800" font-family="Tilt Neon" text-anchor="middle" fill="#FFFFFFF" stroke="#333333" stroke-width="0.1%">
+      <animate attributeName="fill" values="#A20000,#FFFFFF;#A20000" dur="3s" repeatCount="indefinite"/>
       EN CONSTRUCTION !
     </text>
 
-    <text x="1cm" y="2cm" font-size="3" font-weight="800" font-family="Tilt Neon" text-anchor="middle" fill="#000000" stroke="#333333" stroke-width="0.1%">
-      <animate attributeName="fill" values="#000000;#A20000;#000000;" dur="3s" repeatCount="indefinite"/>
+    <text x="1cm" y="2cm" font-size="3" font-weight="800" font-family="Tilt Neon" text-anchor="middle" fill="#FFFFFF" stroke="#333333" stroke-width="0.1%">
+      <animate attributeName="fill" values="#A20000,#FFFFFF;#A20000" dur="3s" repeatCount="indefinite"/>
       Suivez-nous sur Facebook...
     </text>
 
