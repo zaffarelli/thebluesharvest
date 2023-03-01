@@ -253,7 +253,9 @@
     <text x="1.0cm" y="1.9cm" font-size="5" font-family="Roboto" text-anchor="middle" fill="#000000" stroke="#333333" stroke-width="0.1%">
       EN CONSTRUCTION!
     </text>
+    <animate attributeName="fill" values="#000000;#F0C040;#FFFFFF" dur="3s" repeatCount="indefinite"/>
     <text x="1cm" y="2cm" font-size="3" font-family="Roboto" text-anchor="middle" fill="#000000" stroke="#333333" stroke-width="0.1%">
       Cliquez pour accéder à notre page Facebook...
     </text>
+    <animate attributeName="fill" values="#000000;#F0C040;#FFFFFF" dur="3s" repeatCount="indefinite"/>
 </svg>
