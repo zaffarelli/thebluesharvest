@@ -152,7 +152,6 @@ STATICFILES_FINDERS = [
 
 
 
-if DEBUG:
-    import mimetypes
-    mimetypes.add_type("application/javascript;charset=utf-8", ".es6", True)
-    mimetypes.add_type("application/javascript;charset=utf-8", ".js", True)
+import mimetypes
+mimetypes.add_type("application/javascript;charset=utf-8", ".es6", True)
+mimetypes.add_type("application/javascript;charset=utf-8", ".js", True)
