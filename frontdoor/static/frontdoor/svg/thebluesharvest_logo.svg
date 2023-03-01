@@ -87,7 +87,10 @@
          id="g1234"
          transform="translate(12.743934,3.1068807)">
         <g
-           id="g1220-5">
+           id="g1220-5"
+
+             transform="rotate(12) translate(19,-36)"
+        >
           <g
              id="g2929">
             <g
@@ -234,9 +237,23 @@
                  style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
             </g>
+            <g>
+
+
+
+              </g>
           </g>
         </g>
+
       </g>
     </g>
+
   </g>
+
+    <text x="1.0cm" y="1.9cm" font-size="5" font-family="Roboto" text-anchor="middle" fill="#000000" stroke="#333333" stroke-width="0.1%">
+      EN CONSTRUCTION!
+    </text>
+    <text x="1cm" y="2cm" font-size="3" font-family="Roboto" text-anchor="middle" fill="#000000" stroke="#333333" stroke-width="0.1%">
+      Cliquez pour accéder à notre page Facebook...
+    </text>
 </svg>
