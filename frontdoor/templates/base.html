@@ -1,3 +1,4 @@
+{%  load static %}
 <!DOCTYPE html>
 <html lang='fr'>
 <head>
@@ -17,10 +18,10 @@
     {% for font in fontset %}
         <link rel='stylesheet' href="https://fonts.googleapis.com/css2?family={{ font }}">
     {% endfor %}
-{#    {% load compress %}#}
-{#    {% compress css %}#}
+    {% load compress %}
+    {% compress css %}
         <link rel='stylesheet' type='text/css' href='{% sass_src "frontdoor/css/main.scss" %}'/>
-{#    {% endcompress %}#}
+    {% endcompress %}
 </head>
 <body>
 <div class="world">
