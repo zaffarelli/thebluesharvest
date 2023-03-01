@@ -156,14 +156,46 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = "fernando.casabuentes@gmail.com"
 EMAIL_HOST_PASSWORD = "fqyozcbjwflhmmlp"
 
-STATICFILES_FINDERS = [
-    'django.contrib.staticfiles.finders.FileSystemFinder',
-    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
-    'sass_processor.finders.CssFinder',
-]
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': True,
+    'formatters': {
+        'standard': {
+            'format': "[%(asctime)s] %(message)s",
+            'datefmt': "%Y-%m-%d"
+        },
+    },
+    'handlers': {
+        'logfile': {
+            'level': 'DEBUG',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'filename': "/var/log/thebluesharvest/thebluesharvest.log",
+            'maxBytes': 1000000000,
+            'backupCount': 3,
+            'formatter': 'standard',
+        },
+        'console': {
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
+            'formatter': 'standard'
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console', 'logfile'],
+            'propagate': False,
+            'level': 'INFO',
+        },
+        'django.db.backends': {
+            'handlers': ['console', 'logfile'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'collector': {
+            'handlers': ['console', 'logfile'],
+            'level': 'DEBUG',
+        },
+    }
+}
 
 
-
-import mimetypes
-mimetypes.add_type("application/javascript;charset=utf-8", ".es6", True)
-mimetypes.add_type("application/javascript;charset=utf-8", ".js", True)
