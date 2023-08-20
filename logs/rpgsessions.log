@@ -1,0 +1,345 @@
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] Invalid HTTP_HOST header: 'zotzgi:8086'. You may need to add 'zotzgi' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/http/request.py", line 148, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'zotzgi:8086'. You may need to add 'zotzgi' to ALLOWED_HOSTS.
+[2023-08-19] Bad Request: /
+[2023-08-19] "GET / HTTP/1.1" 400 143
+[2023-08-19] Invalid HTTP_HOST header: 'zotzgi:8086'. You may need to add 'zotzgi' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/http/request.py", line 148, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'zotzgi:8086'. You may need to add 'zotzgi' to ALLOWED_HOSTS.
+[2023-08-19] Bad Request: /favicon.ico
+[2023-08-19] "GET /favicon.ico HTTP/1.1" 400 143
+[2023-08-19] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/settings.py changed, reloading.
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/settings.py changed, reloading.
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/settings.py changed, reloading.
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/settings.py changed, reloading.
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/settings.py changed, reloading.
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] Watching for file changes with StatReloader
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] "GET /static/frontdoor/favicon.svg HTTP/1.1" 404 179
+[2023-08-19] "GET / HTTP/1.1" 200 3151
+[2023-08-19] Not Found: /static/fontawesomefree/js/all.min.js
+[2023-08-19] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/js/frontdoor.es6
+[2023-08-19] "GET /static/js/frontdoor.es6 HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/CACHE/css/output.8f922577cb74.css
+[2023-08-19] "GET /static/CACHE/css/output.8f922577cb74.css HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/svg/thebluesharvest_logo.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/regis.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/cecile.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/david.svg
+[2023-08-19] Not Found: /static/frontdoor/svg/alex.svg
+[2023-08-19] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 404 179
+[2023-08-19] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 404 179
+[2023-08-19] Not Found: /static/frontdoor/favicon.svg
+[2023-08-19] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/settings.py changed, reloading.

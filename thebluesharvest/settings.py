@@ -16,7 +16,6 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
@@ -24,14 +23,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-hu6wumha5&*du!!sr%6_+p3e+u*!e0id+pod4pzrwm*$y*2c=v'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['thebluesharvest.senestre.eu']
+ALLOWED_HOSTS = ['thebluesharvest.senestre.eu', 'zotzgi', 'localhost']
 
-SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+# SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 LOGPATH = os.path.join(BASE_DIR, 'logs/')
-
-
 
 # Application definition
 
@@ -78,17 +75,15 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'thebluesharvest.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': BASE_DIR / 'thebluesharvest.sqlite3',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
@@ -118,8 +113,6 @@ STATICFILES_FINDERS = (
     'compressor.finders.CompressorFinder',
 )
 
-
-
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
 
@@ -131,21 +124,20 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = 'static/'
-
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-VERSION = "0.3"
+VERSION = "0.4"
 
 MEDIA_URL = 'media/'
+STATIC_URL = 'static/'
 STATIC_ROOT = "/srv/thebluesharvest_static/"
 MEDIA_ROOT = "/srv/thebluesharvest_media/"
 
@@ -169,7 +161,7 @@ LOGGING = {
         'logfile': {
             'level': 'DEBUG',
             'class': 'logging.handlers.RotatingFileHandler',
-            'filename': LOGPATH + "rpgsessions.log",
+            'filename': LOGPATH + "thebluesharvest.log",
             'maxBytes': 1000000000,
             'backupCount': 3,
             'formatter': 'standard',
@@ -198,4 +190,8 @@ LOGGING = {
     }
 }
 
+if DEBUG:
+    import mimetypes
+    mimetypes.add_type("application/javascript;charset=utf-8", ".es6", True)
+    mimetypes.add_type("application/javascript;charset=utf-8", ".js", True)
 

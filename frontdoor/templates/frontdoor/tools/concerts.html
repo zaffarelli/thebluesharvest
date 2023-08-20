@@ -1,0 +1,29 @@
+{% load static %}
+{% load global_filters %}
+<div class="concerts">
+    <h1>Concerts</h1>
+    {% for c in concerts %}
+        <div class="concert">
+{#            <div class="concert_pic">#}
+{#                {% if c.is_private %}#}
+{#                    <img src="{% static 'frontdoor/pictures/private.jpg' %}" alt="Concert Privé"/>#}
+{#                {% else %}#}
+{#                    <img src="{% static 'frontdoor/pictures/blank.jpg' %}" alt="Pas d'image"/>#}
+{#                {% endif %}#}
+{#            </div>#}
+            <div class="concert_info">
+                {{ c.perf_date | to_datetime }}<br/>
+                <b>
+                {% if c.is_private %}
+                    <i>Soirée Privée</i>
+                {% else %}
+                    {{ c.title | safe }}
+                {% endif %}
+                </b>
+                <hr/>
+                {{ c.place | safe }}<br/>
+                {{ c.description | safe }}
+            </div>
+        </div>
+    {% endfor %}
+</div>

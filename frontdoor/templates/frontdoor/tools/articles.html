@@ -1,0 +1,10 @@
+{% load static %}
+
+{% for a in articles %}
+    <div class="article {{ a.label }}">
+        {% if a.display_title %}
+            <h1>{{ a.title | safe }}</h1>
+        {% endif %}
+        <p>{{ a.description | safe }}</p>
+    </div>
+{% endfor %}

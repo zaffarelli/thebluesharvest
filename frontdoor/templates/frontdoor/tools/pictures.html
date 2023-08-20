@@ -1,0 +1,10 @@
+{% load static %}
+
+<div class="pictures">
+<h1>Photos</h1>
+{% for p in pictures %}
+    <div class="picture">
+        <img class="framed" src="{% static  p.ref %}"/>
+    </div>
+{% endfor %}
+</div>

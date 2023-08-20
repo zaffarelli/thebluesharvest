@@ -26,15 +26,20 @@
 <div class="world">
     <div class="spare_left"></div>
     <div class="corpus">
-        <div class="stacked top"></div>
-        <div class="stacked">
+        <div class="stacked top">
+        {% block top %}
+        {% endblock top %}
+        </div>
+        <div class="stacked mid">
         {% block main %}
         {% endblock main %}
         </div>
-        <div class="stacked bottom"></div>
+        <div class="stacked bottom">
+        {% block bottom %}
+        {% endblock bottom %}
+        </div>
         {% block javascript %}
         {% endblock javascript %}
-
         {% block custom_js %}
         {% endblock custom_js %}
 
