@@ -5,7 +5,7 @@ cd ~/thebluesharvest
 sudo chown -R www-data:www-data /srv
 sudo chmod -R a+w /srv
 
-pip install -r requirements.txt
+pip install -r requirements_demo.txt
 
 python ./manage.py migrate
 python ./manage.py collectstatic --no-input
