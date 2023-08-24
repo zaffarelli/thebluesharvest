@@ -5391,3 +5391,4 @@ django.template.exceptions.TemplateDoesNotExist: frontdoor/tools/textpage.html
 [2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
 [2023-08-24] "GET /home HTTP/1.1" 200 4837
 [2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] Watching for file changes with StatReloader

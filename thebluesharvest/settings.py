@@ -134,7 +134,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-VERSION = "0.4"
+VERSION = "0.5"
 
 MEDIA_URL = 'media/'
 STATIC_URL = 'static/'
