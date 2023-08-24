@@ -2,14 +2,16 @@
 {% load global_filters %}
 
 
-<div class="articles">
+<div class="articles  focused">
     {% for a in articles %}
-        <div class="article">
-        </div>
         <div class="article {{ a.label }}">
+            {% if a.display_title %}
             <h1>{{ a.title | safe }}</h1>
+            {% endif %}
             <p>{{ a.description | as_article | safe }}</p>
+            {% if a.display_author %}
             <cite>{{ a.author | safe }}</cite>
+            {% endif %}
         </div>
     {% endfor %}
 </div>

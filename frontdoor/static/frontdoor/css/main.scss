@@ -57,7 +57,7 @@ body {
         gap: 5px;
 
 
-        &.mid{
+        &.mid {
 
         }
 
@@ -82,33 +82,47 @@ body {
     }
   }
 
+  .articles {
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    gap:1px;
 
-  .article {
-    background: silver;
-    width: 30vw;
-    font-family: Mukta;
-    font-size: 16pt;
-    color: black;
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px black;
-    margin: 10px;
+    &.focused{
+      background:darken(lightgray,2%);
+      grid-template-columns: 1fr 1fr 1fr;
+
+      & .article{
+        grid-column: 1/ span 3;
+      }
+    }
+
+
+    & .article {
+      background: lightgray;
+      font-family: Kalam;
+      font-size: 16pt;
+      color: black;
+      padding: 10px;
+      //border-radius: 10px;
+      //box-shadow: 5px 5px 10px black;
+      margin: 10px;
+      padding:30px;
+      & p{
+        line-height: 1.1em;
+      }
+    }
   }
 
   .concerts {
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 10px black;
 
     background: lightgrey;
     width: 50vw;
 
-    & H1 {
-      color: black;
-      font-family: Oswald;
 
-    }
 
 
     & .concert {
@@ -145,13 +159,13 @@ body {
 }
 
 
-
 .menu {
-  width:98%;
-  padding:1%;
-  border-radius:5px;
-  background:transparent;
-  & .entry{
+  width: 98%;
+  padding: 1%;
+  border-radius: 5px;
+  background: transparent;
+
+  & .entry {
     display: inline-block;
     width: 180px;
     heigth: 1.8em;
@@ -162,11 +176,14 @@ body {
 
     color: white;
     background: #123;
+    &.private {
+      background: #132;
+    }
 
 
     & a, & a:hover, & a:active, & a:visited {
       color: white;
-      background: #123;
+      background: transparent;
       text-decoration: none;
     }
 
@@ -186,22 +203,34 @@ body {
 
   & H1 {
     color: black;
-    font-family: Oswald;
+    font-family: Kalam;
+    font-size:1.6em;
 
   }
 
   & .picture {
     text-align: center;
-    display:inline-block;
-    margin:5px;
+    display: inline-block;
+    margin: 5px;
 
     & img.framed {
       border: 4px solid #102030;
       box-shadow: 5px 5px 10px lightgray;
       width: 10vw;
-      border-radius:10px;
+      border-radius: 10px;
+
+    }
 
   }
+}
 
-  }
+
+H1 {
+  color: black;
+  font-family: Kalam;
+  font-size:1.6em;
+}
+
+cite{
+  text-align: right;
 }

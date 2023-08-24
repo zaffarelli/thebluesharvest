@@ -54,3 +54,11 @@ def medias(request):
         all_pictures.append({'ref':f'frontdoor/pictures/bh{x+1}.jpg'})
     context['pictures'] = all_pictures
     return render(request, 'frontdoor/medias.html', context=context)
+
+
+def home(request):
+    context = prepare_index(request)
+    from frontdoor.utils.mechanics import fetch_articles
+    articles = ["Pitch Principal","Citation du pitch"]
+    context['articles'] = fetch_articles(articles)
+    return render(request, 'frontdoor/home.html', context=context)

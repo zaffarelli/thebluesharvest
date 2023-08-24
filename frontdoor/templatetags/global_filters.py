@@ -18,3 +18,11 @@ def to_datetime(value):
        res = value.strftime(fmt)
     return res
 
+
+@register.filter(name='as_article')
+def as_article(value):
+    res = "n/a"
+    if value:
+        res = value.replace("\n","<br/>")
+    return res
+

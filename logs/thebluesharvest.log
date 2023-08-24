@@ -4643,3 +4643,751 @@ sass.CompileError: Error: Invalid CSS after "  color": expected "}", was ":white
 [2023-08-20] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
 [2023-08-20] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/concerts.py changed, reloading.
 [2023-08-20] Watching for file changes with StatReloader
+[2023-08-20] Watching for file changes with StatReloader
+[2023-08-20] "GET /demo HTTP/1.1" 200 2717
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.1faa550088b7.css HTTP/1.1" 200 5454
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6582
+[2023-08-20] "GET /static/CACHE/css/main.1faa550088b7.css HTTP/1.1" 200 5454
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.69519ccf9eb9.css HTTP/1.1" 200 5464
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.410ca5076ad0.css HTTP/1.1" 200 5379
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.47bca69adec8.css HTTP/1.1" 200 5403
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.8d6b34ac350a.css HTTP/1.1" 200 5421
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.1743c186679a.css HTTP/1.1" 200 5445
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/CACHE/css/main.88d38dd224ad.css HTTP/1.1" 200 5565
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 304 0
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.0c974ac82a60.css HTTP/1.1" 200 5590
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.8379954403f3.css HTTP/1.1" 200 5667
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.da02ef31bf7e.css HTTP/1.1" 200 5648
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.a9e6ab744f60.css HTTP/1.1" 200 5607
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/CACHE/css/main.8c60ff55b85f.css HTTP/1.1" 200 5585
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6684
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.349c7dbf4a8e.css HTTP/1.1" 200 5540
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6819
+[2023-08-20] "GET /static/CACHE/css/main.349c7dbf4a8e.css HTTP/1.1" 200 5540
+[2023-08-20] "GET /presentation HTTP/1.1" 200 6819
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.438aecd36119.css HTTP/1.1" 200 5540
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /admin/ HTTP/1.1" 200 7875
+[2023-08-20] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 796
+[2023-08-20] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[2023-08-20] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2619
+[2023-08-20] "GET /static/admin/css/base.css HTTP/1.1" 200 20344
+[2023-08-20] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
+[2023-08-20] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2023-08-20] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-08-20] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-08-20] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2023-08-20] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2023-08-20] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2023-08-20] Not Found: /favicon.ico
+[2023-08-20] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14613
+[2023-08-20] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6395
+[2023-08-20] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2023-08-20] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-20] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-08-20] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-08-20] "GET /admin/frontdoor/article/1/change/ HTTP/1.1" 200 11232
+[2023-08-20] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-20] "GET /static/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+[2023-08-20] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[2023-08-20] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[2023-08-20] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/templatetags/global_filters.py changed, reloading.
+[2023-08-20] Watching for file changes with StatReloader
+[2023-08-20] Internal Server Error: /presentation
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 36, in presentation
+    return render(request, 'frontdoor/presentation.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 197, in render
+    template = context.template.engine.select_template(template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 206, in select_template
+    return self.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/defaulttags.py", line 854, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 484, in parse
+    raise self.error(token, e)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 698, in __init__
+    filter_func = parser.find_filter(filter_name)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 606, in find_filter
+    raise TemplateSyntaxError("Invalid filter: '%s'" % filter_name)
+django.template.exceptions.TemplateSyntaxError: Invalid filter: 'as_article'
+[2023-08-20] "GET /presentation HTTP/1.1" 500 291472
+[2023-08-20] Not Found: /favicon.ico
+[2023-08-20] "GET /favicon.ico HTTP/1.1" 404 2971
+[2023-08-20] "GET /presentation HTTP/1.1" 200 7017
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.438aecd36119.css HTTP/1.1" 200 5540
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-20] "GET /presentation HTTP/1.1" 200 7017
+[2023-08-20] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-20] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-20] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-20] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-20] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-20] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-20] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-21] "GET /medias HTTP/1.1" 200 3314
+[2023-08-21] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /static/frontdoor/pictures/bh5.jpg HTTP/1.1" 304 0
+[2023-08-21] "GET /static/frontdoor/pictures/bh3.jpg HTTP/1.1" 304 0
+[2023-08-21] "GET /static/frontdoor/pictures/bh1.jpg HTTP/1.1" 304 0
+[2023-08-21] "GET /static/frontdoor/pictures/bh2.jpg HTTP/1.1" 304 0
+[2023-08-21] "GET /static/frontdoor/pictures/bh4.jpg HTTP/1.1" 200 208267
+[2023-08-21] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 304 0
+[2023-08-21] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-21] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-21] "GET /concerts HTTP/1.1" 200 8695
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /concerts HTTP/1.1" 200 8759
+[2023-08-21] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-21] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-21] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-21] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-21] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-21] "GET /admin/ HTTP/1.1" 200 7875
+[2023-08-21] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-08-21] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-08-21] "GET /demo HTTP/1.1" 200 2781
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /demo HTTP/1.1" 200 2781
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /medias HTTP/1.1" 200 3378
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /concerts HTTP/1.1" 200 8759
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-21] "GET /presentation HTTP/1.1" 200 7081
+[2023-08-21] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] "GET /presentation HTTP/1.1" 200 7081
+[2023-08-24] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "POST /admin/frontdoor/article/1/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14838
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-08-24] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-08-24] "POST /admin/frontdoor/article/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14766
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /presentation HTTP/1.1" 200 7139
+[2023-08-24] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] "POST /admin/frontdoor/article/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14625
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14782
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-08-24] "GET /presentation HTTP/1.1" 200 7195
+[2023-08-24] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] "GET /admin/frontdoor/article/1/change/ HTTP/1.1" 200 11240
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/1/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14850
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /presentation HTTP/1.1" 200 7151
+[2023-08-24] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/urls.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] "GET /presentation HTTP/1.1" 200 7207
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7207
+[2023-08-24] "GET /static/CACHE/css/main.a91761875dfb.css HTTP/1.1" 200 5666
+[2023-08-24] "GET /home HTTP/1.1" 200 7223
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.3ed29eb40d21.css HTTP/1.1" 200 5780
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7223
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.d31247c35e57.css HTTP/1.1" 200 5787
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7223
+[2023-08-24] "GET /static/CACHE/css/main.d31247c35e57.css HTTP/1.1" 200 5787
+[2023-08-24] "GET /home HTTP/1.1" 200 7227
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.d31247c35e57.css HTTP/1.1" 200 5787
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /home HTTP/1.1" 200 7346
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.d31247c35e57.css HTTP/1.1" 200 5787
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7346
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.84cbdc76ba38.css HTTP/1.1" 200 5811
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] "GET /home HTTP/1.1" 200 7437
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.69095eef0b4c.css HTTP/1.1" 200 5810
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] "GET /home HTTP/1.1" 200 7437
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.69095eef0b4c.css HTTP/1.1" 200 5810
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7437
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.c3927ff6d738.css HTTP/1.1" 200 5831
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7437
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.cfb32d6045b3.css HTTP/1.1" 200 5797
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7437
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.735667ac7cb6.css HTTP/1.1" 200 5797
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7437
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.cbdfdc5e9c7f.css HTTP/1.1" 200 5818
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /admin/frontdoor/article/1/change/ HTTP/1.1" 200 11232
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/1/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14858
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /home HTTP/1.1" 200 7461
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.cbdfdc5e9c7f.css HTTP/1.1" 200 5818
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 7461
+[2023-08-24] "GET /static/CACHE/css/main.cbdfdc5e9c7f.css HTTP/1.1" 200 5818
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] "GET /home HTTP/1.1" 200 4954
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.cbdfdc5e9c7f.css HTTP/1.1" 200 5818
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] Internal Server Error: /home
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 197, in render
+    template = context.template.engine.select_template(template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 212, in select_template
+    raise TemplateDoesNotExist(", ".join(not_found))
+django.template.exceptions.TemplateDoesNotExist: frontdoor/tools/textpage.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 64, in home
+    return render(request, 'frontdoor/home.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/backends/django.py", line 64, in render
+    reraise(exc, self.backend)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/backends/django.py", line 85, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: frontdoor/tools/textpage.html
+[2023-08-24] "GET /home HTTP/1.1" 500 204180
+[2023-08-24] Not Found: /favicon.ico
+[2023-08-24] "GET /favicon.ico HTTP/1.1" 404 3137
+[2023-08-24] "GET /home HTTP/1.1" 200 5092
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.cbdfdc5e9c7f.css HTTP/1.1" 200 5818
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 5101
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.188483d2baf1.css HTTP/1.1" 200 5952
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "POST /admin/frontdoor/article/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14776
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /home HTTP/1.1" 200 5055
+[2023-08-24] "GET /static/CACHE/css/main.188483d2baf1.css HTTP/1.1" 200 5952
+[2023-08-24] "GET /admin/frontdoor/article/2/change/ HTTP/1.1" 200 10327
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/2/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14838
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/CACHE/css/main.188483d2baf1.css HTTP/1.1" 200 5952
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.4f4e754b9513.css HTTP/1.1" 200 5979
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.9c3979b8231e.css HTTP/1.1" 200 5979
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.823e7f2cf7ad.css HTTP/1.1" 200 5979
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/CACHE/css/main.6a1065900c6e.css HTTP/1.1" 200 5979
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.70ef9d8123e9.css HTTP/1.1" 200 5979
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.f8951ab713c5.css HTTP/1.1" 200 5993
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 5039
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.1afa806216b5.css HTTP/1.1" 200 6124
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 4859
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.1afa806216b5.css HTTP/1.1" 200 6124
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 4859
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.65927b638751.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /admin/frontdoor/article/2/change/ HTTP/1.1" 200 10315
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/2/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14837
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /home HTTP/1.1" 200 4854
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.65927b638751.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 4854
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/CACHE/css/main.812aa3f07a88.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.812aa3f07a88.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /medias HTTP/1.1" 200 3545
+[2023-08-24] "GET /static/CACHE/css/main.812aa3f07a88.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /static/frontdoor/pictures/bh1.jpg HTTP/1.1" 200 96681
+[2023-08-24] "GET /static/frontdoor/pictures/bh2.jpg HTTP/1.1" 200 103604
+[2023-08-24] "GET /static/frontdoor/pictures/bh3.jpg HTTP/1.1" 200 108760
+[2023-08-24] "GET /static/frontdoor/pictures/bh5.jpg HTTP/1.1" 304 0
+[2023-08-24] "GET /static/frontdoor/pictures/bh4.jpg HTTP/1.1" 304 0
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.812aa3f07a88.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /home HTTP/1.1" 200 4854
+[2023-08-24] "GET /static/CACHE/css/main.812aa3f07a88.css HTTP/1.1" 200 6130
+[2023-08-24] "GET /home HTTP/1.1" 200 4854
+[2023-08-24] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-24] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-24] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-24] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-24] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-08-24] "GET /home HTTP/1.1" 200 4854
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /home HTTP/1.1" 200 4854
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /admin/frontdoor/article/2/change/ HTTP/1.1" 200 10314
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/2/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14820
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-08-24] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14603
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /home HTTP/1.1" 200 4831
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /admin/frontdoor/article/2/change/ HTTP/1.1" 200 10297
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "POST /admin/frontdoor/article/2/change/ HTTP/1.1" 302 0
+[2023-08-24] "GET /admin/frontdoor/article/ HTTP/1.1" 200 14838
+[2023-08-24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-08-24] "GET /home HTTP/1.1" 200 4837
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
+[2023-08-24] "GET /home HTTP/1.1" 200 4837
+[2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
