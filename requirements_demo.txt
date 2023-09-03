@@ -9,6 +9,7 @@ django-sass-processor==1.2.2
 fontawesomefree==6.2.1
 gunicorn==20.1.0
 libsass==0.22.0
+Pillow==10.0.0
 rcssmin==1.1.1
 rjsmin==1.2.1
 sqlparse==0.4.3
