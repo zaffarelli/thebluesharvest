@@ -21,22 +21,23 @@
     {% compress css %}
         <link rel='stylesheet' type='text/x-scss' href='{% static "frontdoor/css/main.scss" %}'/>
     {% endcompress %}
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
 </head>
 <body>
 <div class="world">
     <div class="spare_left"></div>
     <div class="corpus">
         <div class="stacked top">
-        {% block top %}
-        {% endblock top %}
+            {% block top %}
+            {% endblock top %}
         </div>
         <div class="stacked mid">
-        {% block main %}
-        {% endblock main %}
+            {% block main %}
+            {% endblock main %}
         </div>
         <div class="stacked bottom">
-        {% block bottom %}
-        {% endblock bottom %}
+            {% block bottom %}
+            {% endblock bottom %}
         </div>
         {% block javascript %}
         {% endblock javascript %}
@@ -51,5 +52,10 @@
     <div id="dialog"></div>
 </div>
 
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 </body>
 </html>

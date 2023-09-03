@@ -15,6 +15,8 @@ def index(request):
 
 
 def demo(request):
+    from frontdoor.utils.mechanics import populate_gallery
+    populate_gallery('pictures/dates/')
     context = prepare_index(request)
     from frontdoor.models.articles import Article
     from frontdoor.models.concerts import Concert
@@ -46,12 +48,14 @@ def concerts(request):
     context['concerts'] = all_concerts
     return render(request, 'frontdoor/concerts.html', context=context)
 
-
 def medias(request):
+    from frontdoor.models.gallery_items import GalleryItem
     context = prepare_index(request)
+    pix = GalleryItem.objects.all()
     all_pictures = []
-    for x in range(5):
-        all_pictures.append({'ref':f'frontdoor/pictures/bh{x+1}.jpg'})
+    for pic in pix:
+        content = pic.generate_crop()
+        all_pictures.append({'ref':pic.image_reference, "cropped": f"{pic.image_path}thumbnails/crop_{pic.image_short}"})
     context['pictures'] = all_pictures
     return render(request, 'frontdoor/medias.html', context=context)
 

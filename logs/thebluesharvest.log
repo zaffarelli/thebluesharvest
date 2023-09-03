@@ -5392,3 +5392,2187 @@ django.template.exceptions.TemplateDoesNotExist: frontdoor/tools/textpage.html
 [2023-08-24] "GET /home HTTP/1.1" 200 4837
 [2023-08-24] "GET /static/CACHE/css/main.2d2053df5dd6.css HTTP/1.1" 200 6218
 [2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] Watching for file changes with StatReloader
+[2023-08-24] "GET /home HTTP/1.1" 200 4837
+[2023-08-24] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-24] "GET /medias HTTP/1.1" 200 3545
+[2023-08-24] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-24] "GET /concerts HTTP/1.1" 200 8926
+[2023-08-24] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-24] "GET /medias HTTP/1.1" 200 3545
+[2023-08-24] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-25] "GET /static/frontdoor/pictures/bh5.jpg HTTP/1.1" 304 0
+[2023-08-25] "GET /static/frontdoor/pictures/bh3.jpg HTTP/1.1" 200 108760
+[2023-08-25] Not Found: /favicon.ico
+[2023-08-25] "GET /static/frontdoor/pictures/bh4.jpg HTTP/1.1" 200 208267
+[2023-08-31] Watching for file changes with StatReloader
+[2023-08-31] "GET / HTTP/1.1" 200 2920
+[2023-08-31] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-31] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-31] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 200 8601
+[2023-08-31] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 200 3540
+[2023-08-31] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 200 3667
+[2023-08-31] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 200 3562
+[2023-08-31] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 200 19161
+[2023-08-31] "GET /demo HTTP/1.1" 200 3133
+[2023-08-31] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-31] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-31] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 304 0
+[2023-08-31] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-31] "GET /demo HTTP/1.1" 200 3133
+[2023-08-31] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-31] "GET /demo HTTP/1.1" 200 3139
+[2023-08-31] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-08-31] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-08-31] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-08-31] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-08-31] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-08-31] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-08-31] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET / HTTP/1.1" 200 2930
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 304 0
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 304 0
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/CACHE/css/main.f1dde59a7596.css HTTP/1.1" 200 6217
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.8b610ed9e7ca.css HTTP/1.1" 200 6218
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2b95d64a9172.css HTTP/1.1" 200 6219
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.8b4daddbd7bf.css HTTP/1.1" 200 6218
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.65b17e4854fb.css HTTP/1.1" 200 6220
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.6aab26edf398.css HTTP/1.1" 200 6229
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.d9aa44fd93c8.css HTTP/1.1" 200 6221
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.d79bd85f7236.css HTTP/1.1" 200 6222
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.74854cab1dbd.css HTTP/1.1" 200 6224
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 57, in medias
+    populate_gallery('frontdoor/pictures/dates/*.jpg')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 13, in populate_gallery
+    arr = os.listdir(path)
+          ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'frontdoor/pictures/dates/*.jpg'
+[2023-09-03] "GET /medias HTTP/1.1" 500 81044
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3137
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 57, in medias
+    populate_gallery('./frontdoor/pictures/dates/*.jpg')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 13, in populate_gallery
+    arr = os.listdir(path)
+          ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './frontdoor/pictures/dates/*.jpg'
+[2023-09-03] "GET /medias HTTP/1.1" 500 81056
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 57, in medias
+    populate_gallery('/pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 15, in populate_gallery
+    onlyfiles = [f for f in os.listdir(arr) if os.path.isfile(os.path.join(arr, f))]
+                            ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/pictures/dates/'
+[2023-09-03] "GET /medias HTTP/1.1" 500 81355
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3137
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 57, in medias
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 15, in populate_gallery
+    onlyfiles = [f for f in os.listdir(arr) if os.path.isfile(os.path.join(arr, f))]
+                            ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/srv/thebluesharvest_media/pictures/dates/'
+[2023-09-03] "GET /medias HTTP/1.1" 500 81456
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3137
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET / HTTP/1.1" 200 2930
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /admin HTTP/1.1" 301 0
+[2023-09-03] "GET /admin/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2231
+[2023-09-03] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 796
+[2023-09-03] "GET /static/admin/css/base.css HTTP/1.1" 200 20344
+[2023-09-03] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2619
+[2023-09-03] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[2023-09-03] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
+[2023-09-03] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2023-09-03] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2023-09-03] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2392
+[2023-09-03] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2023-09-03] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 7869
+[2023-09-03] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[2023-09-03] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-09-03] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/admin.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4294
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 8324
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 11193
+[2023-09-03] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6395
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-09-03] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /concerts HTTP/1.1" 200 9113
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /concerts HTTP/1.1" 200 9113
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 59, in medias
+    all_pictures = GalleryItem.objects.all()
+                   ^^^^^^^^^^^
+NameError: name 'GalleryItem' is not defined
+[2023-09-03] "GET /medias HTTP/1.1" 500 76225
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 3934
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/ HTTP/1.1" 404 1764
+[2023-09-03] "GET /static/ HTTP/1.1" 404 1764
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 3862
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4132
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] Not Found: /pictures/dates/20230812_01.jpg
+[2023-09-03] Not Found: /pictures/dates/20230812_05.jpg
+[2023-09-03] Not Found: /pictures/dates/20230812_06.jpg
+[2023-09-03] Not Found: /pictures/dates/20230812_02.jpg
+[2023-09-03] Not Found: /pictures/dates/20230812_03.jpg
+[2023-09-03] "GET /pictures/dates/20230812_05.jpg HTTP/1.1" 404 3194
+[2023-09-03] "GET /pictures/dates/20230812_01.jpg HTTP/1.1" 404 3194
+[2023-09-03] "GET /pictures/dates/20230812_06.jpg HTTP/1.1" 404 3194
+[2023-09-03] Not Found: /pictures/dates/20230812_04.jpg
+[2023-09-03] "GET /pictures/dates/20230812_02.jpg HTTP/1.1" 404 3194
+[2023-09-03] Not Found: /pictures/dates/20230812_08.jpg
+[2023-09-03] "GET /pictures/dates/20230812_03.jpg HTTP/1.1" 404 3194
+[2023-09-03] Not Found: /pictures/dates/20230812_09.jpg
+[2023-09-03] "GET /pictures/dates/20230812_04.jpg HTTP/1.1" 404 3194
+[2023-09-03] Not Found: /pictures/dates/20230812_07.jpg
+[2023-09-03] "GET /pictures/dates/20230812_08.jpg HTTP/1.1" 404 3194
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /pictures/dates/20230812_09.jpg HTTP/1.1" 404 3194
+[2023-09-03] "GET /pictures/dates/20230812_07.jpg HTTP/1.1" 404 3194
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4132
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'media'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 63, in medias
+    return render(request, 'frontdoor/medias.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loader_tags.py", line 197, in render
+    template = context.template.engine.select_template(template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 206, in select_template
+    return self.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/defaulttags.py", line 854, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/template/base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 7: 'media', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+[2023-09-03] "GET /medias HTTP/1.1" 500 269853
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3137
+[2023-09-03] "GET /medias HTTP/1.1" 200 4123
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] Not Found: /media/{ p.image_reference %}
+[2023-09-03] "GET /media/%7B%20p.image_reference%20%%7D HTTP/1.1" 404 3198
+[2023-09-03] Not Found: /media/{ p.image_reference %}
+[2023-09-03] "GET /media/%7B%20p.image_reference%20%%7D HTTP/1.1" 404 3198
+[2023-09-03] "GET /medias HTTP/1.1" 200 4195
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] Not Found: /media/pictures/dates/20230812_01.jpg
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /media/pictures/dates/20230812_01.jpg HTTP/1.1" 404 3212
+[2023-09-03] Not Found: /media/pictures/dates/20230812_09.jpg
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] Not Found: /media/pictures/dates/20230812_05.jpg
+[2023-09-03] Not Found: /media/pictures/dates/20230812_07.jpg
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /media/pictures/dates/20230812_09.jpg HTTP/1.1" 404 3212
+[2023-09-03] Not Found: /media/pictures/dates/20230812_02.jpg
+[2023-09-03] Not Found: /media/pictures/dates/20230812_04.jpg
+[2023-09-03] "GET /media/pictures/dates/20230812_05.jpg HTTP/1.1" 404 3212
+[2023-09-03] "GET /media/pictures/dates/20230812_07.jpg HTTP/1.1" 404 3212
+[2023-09-03] Not Found: /media/pictures/dates/20230812_08.jpg
+[2023-09-03] "GET /media/pictures/dates/20230812_02.jpg HTTP/1.1" 404 3212
+[2023-09-03] "GET /media/pictures/dates/20230812_04.jpg HTTP/1.1" 404 3212
+[2023-09-03] Not Found: /media/pictures/dates/20230812_03.jpg
+[2023-09-03] "GET /media/pictures/dates/20230812_08.jpg HTTP/1.1" 404 3212
+[2023-09-03] Not Found: /media/pictures/dates/20230812_06.jpg
+[2023-09-03] "GET /media/pictures/dates/20230812_03.jpg HTTP/1.1" 404 3212
+[2023-09-03] "GET /media/pictures/dates/20230812_06.jpg HTTP/1.1" 404 3212
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/urls.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/thebluesharvest/urls.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4195
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.2f5bbc481a4b.css HTTP/1.1" 200 6226
+[2023-09-03] "GET /media/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /media/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /media/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /media/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /media/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /media/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /media/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /media/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /media/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4195
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /media/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /media/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /media/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /media/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /media/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /media/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /media/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /media/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /media/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 4195
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /media/pictures/dates/20230812_01.jpg HTTP/1.1" 200 96681
+[2023-09-03] "GET /media/pictures/dates/20230812_05.jpg HTTP/1.1" 200 52177
+[2023-09-03] "GET /media/pictures/dates/20230812_07.jpg HTTP/1.1" 200 103604
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /media/pictures/dates/20230812_08.jpg HTTP/1.1" 200 108760
+[2023-09-03] "GET /media/pictures/dates/20230812_03.jpg HTTP/1.1" 200 148344
+[2023-09-03] "GET /media/pictures/dates/20230812_09.jpg HTTP/1.1" 200 208267
+[2023-09-03] "GET /media/pictures/dates/20230812_06.jpg HTTP/1.1" 200 144092
+[2023-09-03] "GET /media/pictures/dates/20230812_02.jpg HTTP/1.1" 200 106881
+[2023-09-03] "GET /media/pictures/dates/20230812_04.jpg HTTP/1.1" 200 161055
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/9/change/ HTTP/1.1" 200 9904
+[2023-09-03] "GET /static/admin/css/forms.css HTTP/1.1" 200 8944
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2023-09-03] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2023-09-03] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11297
+[2023-09-03] "GET /static/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+[2023-09-03] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[2023-09-03] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15738
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15868
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-09-03] "GET /medias HTTP/1.1" 200 4195
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/20230812_04.jpg HTTP/1.1" 304 0
+[2023-09-03] "GET /media/pictures/dates/20230812_03.jpg HTTP/1.1" 304 0
+[2023-09-03] "GET /media/pictures/dates/20230812_02.jpg HTTP/1.1" 304 0
+[2023-09-03] "GET /media/pictures/dates/20230812_06.jpg HTTP/1.1" 304 0
+[2023-09-03] "GET /media/pictures/dates/20230812_05.jpg HTTP/1.1" 304 0
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] - Broken pipe from ('192.168.0.10', 36454)
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 61, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 24, in generate_crop
+    with Image.open(self.image_reference) as img:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 3218, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pictures/dates/20230812_01.jpg'
+[2023-09-03] "GET /medias HTTP/1.1" 500 85458
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 61, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 24, in generate_crop
+    with Image.open(self.image_reference) as img:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 3218, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pictures/dates/20230812_01.jpg'
+[2023-09-03] "GET /medias HTTP/1.1" 500 85458
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 61, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 24, in generate_crop
+    with Image.open(self.image_reference) as img:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 3218, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pictures/dates/20230812_01.jpg'
+[2023-09-03] "GET /medias HTTP/1.1" 500 85458
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 3907
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] Not Found: /None
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /None HTTP/1.1" 404 3242
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4474
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D89AD0>
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D28B10>
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D89F90>
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D29550>
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D89D50>
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D89890>
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D89AD0%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D89F90%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D28B10%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D89890%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D29550%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D89D50%3E HTTP/1.1" 404 3443
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D8A410>
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=15x30 at 0x7F05D6D2A450>
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D8A410%3E HTTP/1.1" 404 3443
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D8A1D0>
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=15x30%20at%200x7F05D6D2A450%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D8A1D0%3E HTTP/1.1" 404 3443
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D29550>
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D29550%3E HTTP/1.1" 404 3443
+[2023-09-03] Not Found: /<PIL.Image.Image image mode=RGB size=30x60 at 0x7F05D6D29550>
+[2023-09-03] "GET /%3CPIL.Image.Image%20image%20mode=RGB%20size=30x60%20at%200x7F05D6D29550%3E HTTP/1.1" 404 3443
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /admin/frontdoor/galleryitem/
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: frontdoor_galleryitem.image_short
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1964, in changelist_view
+    response = self.response_action(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/actions.py", line 39, in delete_selected
+    ) = modeladmin.get_deleted_objects(queryset, request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 2104, in get_deleted_objects
+    return get_deleted_objects(objs, request, self.admin_site)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/utils.py", line 114, in get_deleted_objects
+    obj = objs[0]
+          ~~~~^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 445, in __getitem__
+    qs._fetch_all()
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: frontdoor_galleryitem.image_short
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 500 200019
+[2023-09-03] Internal Server Error: /admin/frontdoor/galleryitem/
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: frontdoor_galleryitem.image_short
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 2049, in changelist_view
+    media = self.media + formset.media
+                         ^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/formsets.py", line 518, in media
+    if self.forms:
+       ^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/formsets.py", line 207, in forms
+    for i in range(self.total_form_count())
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/formsets.py", line 182, in total_form_count
+    initial_forms = self.initial_form_count()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/models.py", line 691, in initial_form_count
+    return len(self.get_queryset())
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: frontdoor_galleryitem.image_short
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 500 189794
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 8441
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 8441
+[2023-09-03] Internal Server Error: /admin/frontdoor/galleryitem/
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: frontdoor_galleryitem.image_short
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/contrib/admin/options.py", line 2049, in changelist_view
+    media = self.media + formset.media
+                         ^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/formsets.py", line 518, in media
+    if self.forms:
+       ^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/formsets.py", line 207, in forms
+    for i in range(self.total_form_count())
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/formsets.py", line 182, in total_form_count
+    initial_forms = self.initial_form_count()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/forms/models.py", line 691, in initial_form_count
+    return len(self.get_queryset())
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: frontdoor_galleryitem.image_short
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 500 189772
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET / HTTP/1.1" 200 2930
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 61, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 25, in generate_crop
+    cropped_img.save(f"{self.path}crop{self.short}")
+                        ^^^^^^^^^
+AttributeError: 'GalleryItem' object has no attribute 'path'
+[2023-09-03] "GET /medias HTTP/1.1" 500 81491
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 2390, in save
+    format = EXTENSION[ext]
+             ~~~~~~~~~^^^^^
+KeyError: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 61, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 25, in generate_crop
+    cropped_img.save(f"{self.image_path}crop{self.image_short}")
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 2393, in save
+    raise ValueError(msg) from e
+ValueError: unknown file extension: 
+[2023-09-03] "GET /medias HTTP/1.1" 500 91454
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 2390, in save
+    format = EXTENSION[ext]
+             ~~~~~~~~~^^^^^
+KeyError: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 61, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 27, in generate_crop
+    cropped_img.save(n)
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 2393, in save
+    raise ValueError(msg) from e
+ValueError: unknown file extension: 
+[2023-09-03] "GET /medias HTTP/1.1" 500 91827
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] "GET /admin HTTP/1.1" 301 0
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 8441
+[2023-09-03] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-09-03] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15720
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-09-03] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 7489
+[2023-09-03] "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6989
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET / HTTP/1.1" 200 2930
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 24, in populate_gallery
+    gi.generate_crop()
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 22, in generate_crop
+    with Image.open(settings.MEDIA_ROOT+self.image_reference) as img:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 3218, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IsADirectoryError: [Errno 21] Is a directory: '/srv/thebluesharvest_media/'
+[2023-09-03] "GET /demo HTTP/1.1" 500 88011
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 24, in populate_gallery
+    gi.generate_crop()
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 22, in generate_crop
+    with Image.open(settings.MEDIA_ROOT+self.image_reference) as img:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 3218, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IsADirectoryError: [Errno 21] Is a directory: '/srv/thebluesharvest_media/'
+[2023-09-03] "GET /demo HTTP/1.1" 500 88060
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 24, in populate_gallery
+    gi.generate_crop()
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 22, in generate_crop
+    with Image.open(settings.MEDIA_ROOT+self.image_path+self.image_short) as img:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 3218, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/srv/thebluesharvest_media//srv/thebluesharvest_media/pictures/dates/20230812_01.jpg'
+[2023-09-03] "GET /demo HTTP/1.1" 500 88695
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: frontdoor_galleryitem.image_reference
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 25, in populate_gallery
+    gi.save()
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 812, in save
+    self.save_base(
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: UNIQUE constraint failed: frontdoor_galleryitem.image_reference
+[2023-09-03] "GET /demo HTTP/1.1" 500 162555
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 9278
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6171
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6988
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6846
+[2023-09-03] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 796
+[2023-09-03] "GET /static/admin/css/base.css HTTP/1.1" 200 20344
+[2023-09-03] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2619
+[2023-09-03] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6395
+[2023-09-03] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+[2023-09-03] "GET /static/admin/css/forms.css HTTP/1.1" 200 8944
+[2023-09-03] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[2023-09-03] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8985
+[2023-09-03] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[2023-09-03] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[2023-09-03] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[2023-09-03] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[2023-09-03] "GET /static/admin/js/filters.js HTTP/1.1" 200 966
+[2023-09-03] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
+[2023-09-03] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2023-09-03] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[2023-09-03] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11297
+[2023-09-03] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-09-03] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2023-09-03] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-09-03] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2023-09-03] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2023-09-03] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /favicon.ico HTTP/1.1" 404 3263
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: frontdoor_galleryitem.image_reference
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 25, in populate_gallery
+    gi.save()
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 812, in save
+    self.save_base(
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: UNIQUE constraint failed: frontdoor_galleryitem.image_reference
+[2023-09-03] "GET /demo HTTP/1.1" 500 162360
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4147
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] Not Found: /None
+[2023-09-03] "GET /None HTTP/1.1" 404 3242
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4853
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_02.jpg
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_07.jpg
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_crop_20230812_01.jpg
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_01.jpg
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_04.jpg
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_02.jpg HTTP/1.1" 404 3413
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_07.jpg HTTP/1.1" 404 3413
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_05.jpg
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_crop_20230812_01.jpg HTTP/1.1" 404 3428
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_01.jpg HTTP/1.1" 404 3413
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_04.jpg HTTP/1.1" 404 3413
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_05.jpg HTTP/1.1" 404 3413
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_09.jpg
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_08.jpg
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_06.jpg
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_09.jpg HTTP/1.1" 404 3413
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_crop_20230812_07.jpg
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_08.jpg HTTP/1.1" 404 3413
+[2023-09-03] Not Found: /srv/thebluesharvest_media/pictures/dates/crop_20230812_03.jpg
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_06.jpg HTTP/1.1" 404 3413
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_crop_20230812_07.jpg HTTP/1.1" 404 3428
+[2023-09-03] "GET /srv/thebluesharvest_media/pictures/dates/crop_20230812_03.jpg HTTP/1.1" 404 3413
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 17851
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 8021
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6990
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 25325
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 9338
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6990
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 24, in populate_gallery
+    gi.generate_crop()
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 21, in generate_crop
+    with Image.open(settings.MEDIA_ROOTself.image_path+self.image_short) as img:
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/conf/__init__.py", line 94, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'MEDIA_ROOTself'
+[2023-09-03] "GET /demo HTTP/1.1" 500 88958
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /medias HTTP/1.1" 200 6571
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_08.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_09.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_04.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_07.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_01.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_03.jpg
+[2023-09-03] "GET /pictures/dates/crop_20230812_08.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_09.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_04.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_07.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_01.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_03.jpg HTTP/1.1" 404 3335
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_06.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_02.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_05.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_01.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_07.jpg
+[2023-09-03] "GET /pictures/dates/crop_20230812_06.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_02.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_05.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_01.jpg HTTP/1.1" 404 3350
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_07.jpg HTTP/1.1" 404 3350
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_09.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_09.jpg HTTP/1.1" 404 3350
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_08.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_08.jpg HTTP/1.1" 404 3350
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_03.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_05.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_06.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_04.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_03.jpg HTTP/1.1" 404 3350
+[2023-09-03] Not Found: /pictures/dates/crop_crop_20230812_02.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_05.jpg HTTP/1.1" 404 3350
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_06.jpg HTTP/1.1" 404 3350
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_04.jpg HTTP/1.1" 404 3350
+[2023-09-03] "GET /pictures/dates/crop_crop_20230812_02.jpg HTTP/1.1" 404 3350
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_01.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_01.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_07.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_07.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_08.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_04.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_08.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_03.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_09.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_04.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_06.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_03.jpg HTTP/1.1" 404 3365
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_09.jpg HTTP/1.1" 404 3365
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_06.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_02.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_02.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_20230812_05.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_crop_20230812_07.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_07.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_20230812_05.jpg HTTP/1.1" 404 3365
+[2023-09-03] Not Found: /pictures/dates/crop_crop_crop_crop_20230812_01.jpg
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_crop_20230812_07.jpg HTTP/1.1" 404 3380
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_01.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_09.jpg
+[2023-09-03] "GET /pictures/dates/crop_20230812_07.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_crop_crop_crop_20230812_01.jpg HTTP/1.1" 404 3380
+[2023-09-03] "GET /pictures/dates/crop_20230812_01.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_09.jpg HTTP/1.1" 404 3335
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_08.jpg
+[2023-09-03] "GET /pictures/dates/crop_20230812_08.jpg HTTP/1.1" 404 3335
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_04.jpg
+[2023-09-03] Not Found: /pictures/dates/crop_20230812_03.jpg
+[2023-09-03] "GET /pictures/dates/crop_20230812_04.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /pictures/dates/crop_20230812_03.jpg HTTP/1.1" 404 3335
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 32265
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 10877
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6990
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4285
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_04.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_01.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_08.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_03.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_09.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_07.jpg
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 404 3368
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_06.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_02.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_05.jpg
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /medias HTTP/1.1" 200 4285
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_03.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_01.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_09.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_04.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_08.jpg
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 404 3368
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_07.jpg
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 404 3368
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_06.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_05.jpg
+[2023-09-03] Not Found: /pictures/dates/thumbnails/crop_20230812_02.jpg
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 404 3368
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3244
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 3493
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 2372
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 6781
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 2924
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 1278
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 2888
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 3340
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 1969
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 304 0
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15765
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 7516
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6989
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 24, in populate_gallery
+    gi.generate_crop()
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 24, in generate_crop
+    w, h = img.size()
+    ^^^^^^^^^^
+TypeError: 'tuple' object is not callable
+[2023-09-03] "GET /demo HTTP/1.1" 500 84011
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 122121
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 128688
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 133908
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 182584
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 169599
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 271225
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 69281
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 124740
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 164037
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] Internal Server Error: /medias
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 57, in medias
+    content = pic.generate_crop()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py", line 30, in generate_crop
+    cropped_img.resize(ow,oh)
+  File "/home/zaffarelli/venv/thebluesharvest/lib64/python3.11/site-packages/PIL/Image.py", line 2130, in resize
+    raise ValueError(msg)
+ValueError: Unknown resampling filter (1449). Use Image.Resampling.NEAREST (0), Image.Resampling.LANCZOS (1), Image.Resampling.BILINEAR (2), Image.Resampling.BICUBIC (3), Image.Resampling.BOX (4) or Image.Resampling.HAMMING (5)
+[2023-09-03] "GET /medias HTTP/1.1" 500 88207
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/fontawesomefree/js/all.min.js HTTP/1.1" 200 1524833
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 133908
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 122121
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 164037
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 69281
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 182584
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 169599
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 124740
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 128688
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 271225
+[2023-09-03] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 133908
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 122121
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 169599
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 128688
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 182584
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 271225
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 164037
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 124740
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 69281
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15765
+[2023-09-03] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 7516
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6989
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 8055
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 11301
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 20949
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 11533
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 7459
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 8648
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 12364
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 6258
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 5712
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/models/gallery_items.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15747
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 200 7516
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 6989
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 758
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 747
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 707
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 668
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 679
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 672
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 703
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 907
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 746
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15747
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15898
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15908
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15760
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 1111
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 1598
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 1522
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 992
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 2799
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 1528
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 986
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 861
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 1009
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15917
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 3384
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3822
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 3460
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 2147
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 2742
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 2876
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 6992
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 1865
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 1785
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 25, in populate_gallery
+    gi.generate_crop()
+    ^^
+UnboundLocalError: cannot access local variable 'gi' where it is not associated with a value
+[2023-09-03] "GET /demo HTTP/1.1" 500 79838
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15925
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] Internal Server Error: /demo
+Traceback (most recent call last):
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/venv/thebluesharvest/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/views.py", line 19, in demo
+    populate_gallery('pictures/dates/')
+  File "/home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py", line 25, in populate_gallery
+    gi.generate_crop()
+    ^^
+UnboundLocalError: cannot access local variable 'gi' where it is not associated with a value
+[2023-09-03] "GET /demo HTTP/1.1" 500 79838
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] /home/zaffarelli/Perso/github/thebluesharvest/frontdoor/utils/mechanics.py changed, reloading.
+[2023-09-03] Watching for file changes with StatReloader
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 2147
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 3460
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 3384
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3822
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 5792
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 2742
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 6992
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 4008
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 2218
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 304 0
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15927
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 6992
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 2147
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 3460
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3822
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 2742
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 5792
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 4008
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 2218
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15929
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 5104
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 4708
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 2972
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 3082
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 10534
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10961
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5369
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15949
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 4031
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3594
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET / HTTP/1.1" 200 2930
+[2023-09-03] "GET /static/js/frontdoor.es6 HTTP/1.1" 200 64
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/regis.svg HTTP/1.1" 200 3562
+[2023-09-03] "GET /static/frontdoor/svg/david.svg HTTP/1.1" 200 3667
+[2023-09-03] "GET /static/frontdoor/svg/cecile.svg HTTP/1.1" 200 3540
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_logo.svg HTTP/1.1" 200 19161
+[2023-09-03] "GET /static/frontdoor/svg/alex.svg HTTP/1.1" 200 8601
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /static/frontdoor/svg/thebluesharvest_2023_logo.svg HTTP/1.1" 200 6562
+[2023-09-03] "GET /static/frontdoor/svg/facebook_icon_2021.svg HTTP/1.1" 200 707
+[2023-09-03] "GET /static/frontdoor/svg/soundcloud.svg HTTP/1.1" 200 4329
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 4031
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3594
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 3594
+[2023-09-03] Not Found: /favicon.ico
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 8474
+[2023-09-03] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15801
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15947
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5006
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 4031
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /admin/ HTTP/1.1" 200 8474
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15801
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 15947
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 3692
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5006
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 3692
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5006
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /medias HTTP/1.1" 200 4348
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 3692
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5006
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /demo HTTP/1.1" 200 3139
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /medias HTTP/1.1" 200 4469
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_bh5.jpg HTTP/1.1" 200 648
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5006
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 3692
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 16603
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /admin/frontdoor/galleryitem/86/change/ HTTP/1.1" 200 9922
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "POST /admin/frontdoor/galleryitem/86/change/ HTTP/1.1" 302 0
+[2023-09-03] "GET /admin/frontdoor/galleryitem/ HTTP/1.1" 200 16841
+[2023-09-03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[2023-09-03] "GET /medias HTTP/1.1" 200 4469
+[2023-09-03] "GET /static/CACHE/css/main.1e7d79f594ba.css HTTP/1.1" 200 6206
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_01.jpg HTTP/1.1" 200 3692
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_03.jpg HTTP/1.1" 200 8859
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_06.jpg HTTP/1.1" 200 10282
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_07.jpg HTTP/1.1" 200 4649
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_09.jpg HTTP/1.1" 200 5685
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_08.jpg HTTP/1.1" 200 5006
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_02.jpg HTTP/1.1" 200 7189
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_04.jpg HTTP/1.1" 200 12883
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_20230812_05.jpg HTTP/1.1" 200 3337
+[2023-09-03] "GET /media/pictures/dates/thumbnails/crop_bh5.jpg HTTP/1.1" 200 5903
