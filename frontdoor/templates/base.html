@@ -41,21 +41,30 @@
         </div>
         {% block javascript %}
         {% endblock javascript %}
-        {% block custom_js %}
-        {% endblock custom_js %}
+
 
     </div>
     <div class="spare_right"></div>
 </div>
 
 <div id="overlay" class="hidden">
-    <div id="dialog"></div>
+    <div class="popin"></div>
 </div>
 
 
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+{#<script src="https://unpkg.com/aos@next/dist/aos.js"></script>#}
+{#<script>#}
+{#    AOS.init();#}
+{#</script>#}
+
+{% block custom_js %}
 <script>
-    AOS.init();
+    _.defer(function () {
+        let co = new Frontdoor()
+        co.perform();
+    });
 </script>
+{% endblock custom_js %}
+
 </body>
 </html>

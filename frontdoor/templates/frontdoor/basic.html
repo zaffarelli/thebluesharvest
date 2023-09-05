@@ -25,11 +25,10 @@
 {% endblock bottom %}
 
 {% block custom_js %}
-{#<script>#}
-{#    _.defer(function () {#}
-{#        let co = new Frontdoor()#}
-{#        co.perform();#}
-{#        co.revealUI();#}
-{#    });#}
-{#</script>#}
+<script>
+    _.defer(function () {
+        let co = new Frontdoor()
+        co.perform();
+    });
+</script>
 {% endblock custom_js %}

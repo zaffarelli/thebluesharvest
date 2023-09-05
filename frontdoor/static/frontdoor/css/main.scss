@@ -24,7 +24,7 @@ body {
     align-items: stretch;
     gap: 1px;
     padding: 0;
-
+    overflow:hidden;
     & .spare_left {
       order: 1;
       flex: 1 0 10%;
@@ -234,3 +234,41 @@ H1 {
 cite{
   text-align: right;
 }
+
+#overlay{
+  position: fixed;
+  display: flex;
+  z-index:7000;
+  margin:auto;
+  width:auto;
+  height:auto;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  background: transparent url('../overlay_back.png');
+  flex-flow: row wrap;
+  justify-content:center;
+  align-items:center;
+  align-content:stretch;
+  & .popin{
+      order:1;
+      margin-top:0 !important;
+      margin-bottom:0 !important;
+      width:auto;
+      height:auto;
+      background:transparent;
+      & img{
+        height:auto;
+        border-radius: 15px;
+        border: 1vh solid lightgray;
+        box-shadow: 0.1vh 0.1vh 1vh lightgray;
+      }
+
+  }
+  &.hidden{
+    display:none;
+  }
+}
+
+
