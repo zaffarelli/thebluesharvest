@@ -1,7 +1,18 @@
 {% extends "frontdoor/basic.html" %}
-{%  load static %}
+{% load static %}
 
 
+
+{% block content %}
+    <div class="pictures">
+        <div class="limiter">
+            <img src="{% static 'frontdoor/svg/regis.svg' %}"/>
+            <img src="{% static 'frontdoor/svg/cecile.svg' %}"/>
+            <img src="{% static 'frontdoor/svg/david.svg' %}"/>
+            <img src="{% static 'frontdoor/svg/alex.svg' %}"/>
+        </div>
+    </div>
+{% endblock content %}
 
 
 

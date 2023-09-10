@@ -1,34 +1,18 @@
-{% extends "base.html" %}
-{%  load static %}
+{% extends "responsive.html" %}
+{% load static %}
 
-{% block top %}
-    <img src="{% static 'frontdoor/svg/thebluesharvest_2023_logo.svg' %}" style="width:10%;"/><br/>
-    <div class="menu">
-    <div class="entry"><a href="home">Accueil</a></div>
-    <div class="entry"><a href="concerts">Concerts</a></div>
-    <div class="entry"><a href="medias">Médias</a></div>
-    <div class="entry"><a href="demo">Compositions</a></div>
-    <div class="entry"><a href="demo">Contact</a></div>
-    <div class="entry private"><a href="presentation">Tous les articles</a></div>
-    <div class="entry private"><a href="admin">Administration</a></div>
-    </div>
-{% endblock top %}
+{% block header %}
+{% include "frontdoor/tools/header.html"  %}
+{% endblock header %}
 
+{% block footer %}
+{% include "frontdoor/tools/footer.html"  %}
+{% endblock footer %}
 
+{% block menu %}
+{% include "frontdoor/tools/menu.html"  %}
+{% endblock menu %}
 
+{% block content %}
+{% endblock content %}
 
-{% block bottom %}
-    <!--Badge Linkaband généré le 17-03-2023; Copyright Linkaband 2019-->
-    <a href='https://linkaband.com/blues-harvest-1?utm_source=badge&utm_campaign=24635' target='_blank'><img src='https://linkaband.com/assets/images/validation/reservation-blanc.png' alt='Blues-harvest' style='width: 5vw;'/></a>
-    <a href="https://www.facebook.com/thebluesharvest" target="_blank"><img src="{% static 'frontdoor/svg/facebook_icon_2021.svg' %}" style="width:5vw;"/></a>
-    <a href="https://soundcloud.com/user-476263694" target="_blank"><img src="{% static 'frontdoor/svg/soundcloud.svg' %}" style="width:5vw;"/></a>
-{% endblock bottom %}
-
-{% block custom_js %}
-<script>
-    _.defer(function () {
-        let co = new Frontdoor()
-        co.perform();
-    });
-</script>
-{% endblock custom_js %}

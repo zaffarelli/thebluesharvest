@@ -1,19 +1,16 @@
-{% extends "base.html" %}
+{% extends "responsive.html" %}
 {%  load static %}
 
-
 {% block main %}
-            <a href="https://www.facebook.com/thebluesharvest" target="_self" title="Aaargh... c'est en travaux... cliquez pour visiter notre page Facebook!">
-            <img src="{% static 'frontdoor/svg/thebluesharvest_logo.svg' %}" style="width:50%;"/>
-            </a>
-            <div class="front_message">
-                <!--Badge Linkaband généré le 17-03-2023; Copyright Linkaband 2019-->
-                <a href='https://linkaband.com/blues-harvest-1?utm_source=badge&utm_campaign=24635' target='_blank'><img src='https://linkaband.com/assets/images/validation/reservation-blanc.png' alt='Blues-harvest-1' style='width: 130px; height: 130px;'/></a>
-            </div>
-            <img src="{% static 'frontdoor/svg/regis.svg' %}" width="10%"/>
-            <img src="{% static 'frontdoor/svg/cecile.svg' %}" width="10%"/>
-            <img src="{% static 'frontdoor/svg/david.svg' %}" width="10%"/>
-            <img src="{% static 'frontdoor/svg/alex.svg' %}" width="10%"/>
+    <div class="splash">
+
+        <img class="band_logo" src="{% static 'frontdoor/svg/thebluesharvest_2023_logo.svg' %}" />
+        <A href="home">ENTRER</A>
+        <img class="avatar" src="{% static 'frontdoor/svg/regis.svg' %}"/>
+        <img class="avatar" src="{% static 'frontdoor/svg/cecile.svg' %}"/>
+        <img class="avatar" src="{% static 'frontdoor/svg/david.svg' %}"/>
+        <img class="avatar" src="{% static 'frontdoor/svg/alex.svg' %}"/>
+    </div>
 {% endblock main %}
 
 

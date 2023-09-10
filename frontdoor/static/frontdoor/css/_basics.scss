@@ -1,13 +1,13 @@
 @charset "UTF-8";
-$body_color: #F0F0F0;
-$body_background: #101010;
+$body_color: #101010;
+$body_background: #D0D0D0;
 // Main colors
 $theme1: #1d1f1f;
 $theme2: #94550a;
 $theme3: deeppink; //#e18c0c;
 $session_board: #89807B;
 
-$body_background: grayscale(darken($theme3,10%));
+//$body_background: grayscale(darken($theme3,10%));
 
 
 
@@ -99,7 +99,8 @@ $plate_color: lighten($panel_color,10%);
 
 
 @mixin basic_panel{
-  background: repeating-linear-gradient(-30deg, #2f1e21, #3f2e00 1px, #281d00 1px, #2f1e21 15px);
+  //background: repeating-linear-gradient(-30deg, #2f1e21, #3f2e00 1px, #281d00 1px, #2f1e21 15px);
+  background: #101010;
 }
 
 
@@ -130,3 +131,10 @@ span.future{
   margin-left:auto;
   margin-right:auto;
 }
+
+
+
+
+$end_header: 120px;
+$start_footer: 80px;
+$end_menu: 50px;

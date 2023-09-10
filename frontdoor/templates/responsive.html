@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+    <meta charset='utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+    <title>{% block title %}The Blues Harvest{% endblock %}</title>
+    {% load static %}
+    {% load sass_tags %}
+    <link rel='icon' type="image/svg+xml" href='{% static "frontdoor/favicon.svg" %}'>
+    <script src="{% static 'fontawesomefree/js/all.min.js' %}"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src='{% static "js/frontdoor.es6" %}'></script>
+    <link rel='stylesheet' href="https://fonts.googleapis.com/css2?family=Roboto">
+    <link rel='stylesheet' href="https://fonts.googleapis.com/css2?family=Anybody">
+    <link rel='stylesheet' href="https://fonts.googleapis.com/css2?family=Cutive+Mono">
+    {% for font in fontset %}
+        <link rel='stylesheet' href="https://fonts.googleapis.com/css2?family={{ font }}">
+    {% endfor %}
+    {% load compress %}
+    {% compress css %}
+        <link rel='stylesheet' type='text/x-scss' href='{% static "frontdoor/css/main.scss" %}'/>
+    {% endcompress %}
+
+</head>
+<body>
+<div id="main">
+    {% block main %}
+    <div class="header">
+        {% block header %}
+        {% endblock header %}
+    </div>
+    <div class="menu">
+        {% block menu %}
+        {% endblock menu %}
+    </div>
+    <div class="content">
+        {% block content %}
+        {% endblock content %}
+    </div>
+    <div class="footer">
+        {% block footer %}
+        {% endblock footer %}
+    </div>
+    {% endblock main %}
+</div>
+
+<div id="overlay" class="hidden">
+    <div class="popin"></div>
+</div>
+
+
+    {% block javascript %}
+    {% endblock javascript %}
+
+{% block custom_js %}
+{% endblock custom_js %}
+
+</body>
+</html>

@@ -1,10 +1,12 @@
 {% load static %}
 
 <div class="pictures">
-<h1>Photos</h1>
-{% for p in pictures %}
-    <div class="picture" ref="{% get_media_prefix %}{{ p.ref }}">
-        <img class="framed" src="{% get_media_prefix %}{{ p.cropped }}" title="{{ p.ref }}"/>
+    <div class="limiter">
+        <h1>Photos</h1>
+        {% for p in pictures %}
+            <div class="picture" ref="{% get_media_prefix %}{{ p.ref }}">
+                <img class="framed" src="{% get_media_prefix %}{{ p.cropped }}" title="{{ p.ref }}"/>
+            </div>
+        {% endfor %}
     </div>
-{% endfor %}
 </div>
