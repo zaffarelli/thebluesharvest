@@ -1,0 +1,213 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  padding: 0;
+  background: $body_background;
+  font_family: $standard_font;
+}
+
+
+.articles {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1px;
+
+  &.focused {
+
+    grid-template-columns: 1fr 1fr 1fr;
+
+    & .article {
+      grid-column: 1/ span 3;
+    }
+  }
+
+
+  & .article {
+
+    font-family: $article_font;
+    font-size: 16pt;
+    color: black;
+    padding: 10px;
+    //border-radius: 10px;
+    //box-shadow: 5px 5px 10px black;
+    margin: 10px;
+    padding: 30px;
+
+    & p {
+      line-height: 1.1em;
+
+    }
+  }
+}
+
+.concerts {
+  //border-radius: 10px;
+  //box-shadow: 5px 5px 10px black;
+
+
+  & .concert {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+    width: auto;
+    //border-radius: 5px;
+    //box-shadow: 0px 0px 5px black;
+
+    & .concert_pic {
+      //padding: 5px;
+
+      order: 1;
+      flex: 1 1 150px;
+    }
+
+    & .concert_info {
+      order: 2;
+
+      font-family: Mukta;
+      font-size: 12pt;
+
+      padding: 10px;
+      margin: 5px;
+      flex: 1 1 auto;
+      border-radius: 5px;
+    }
+  }
+}
+
+
+
+
+.limiter {
+  & .picture {
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+
+    & img.framed {
+      border: 1vh solid lightgray;
+      box-shadow: 0.1vh 0.1vh 20px #D0D0D0;
+      border-radius: 10px;
+    }
+  }
+}
+
+
+H1 {
+  color: black;
+  font-family: $title_font;
+  font-size: 1.6em;
+  border: 1px solid transparent;
+  margin: 0 2ex;
+}
+
+cite {
+  text-align: right;
+  font-family: $citation_font;
+}
+
+#overlay {
+  position: fixed;
+  display: flex;
+  z-index: 7000;
+  margin: auto;
+  width: auto;
+  height: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: transparent url('../overlay_back.png');
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: stretch;
+
+  & .popin {
+    order: 1;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    width: auto;
+    height: auto;
+    background: transparent;
+
+    & img {
+      height: auto;
+      border-radius: 15px;
+      border: 1vh solid lightgray;
+      box-shadow: 0.1vh 0.1vh 1vh lightgray;
+    }
+
+  }
+
+  &.hidden {
+    display: none;
+  }
+
+
+}
+
+.main {
+  margin: 0;
+  padding: 0;
+  border: 1px solid transparent;
+  color: #ffffff;
+  border-radius: 0;
+  background: #000000;
+}
+
+.header {
+  background: transparent;
+}
+
+.content {
+  background: #F0F0F0;
+  color: #101010;
+}
+
+.menu {
+  background: darken(saddlebrown, 15%);
+  z-index: 30;
+  font-family: $standard_font;
+
+  & .limiter {
+    border-color: 1px solid greenyellow;
+  }
+}
+
+a, a:visited, a:hover, a:active {
+  color: white;
+  text-decoration: none;
+}
+
+i.fas {
+  color: white;
+}
+
+.splash {
+  background: #505050;
+  margin: auto;
+  text-align: center;
+
+  box-shadow: 10px 10px 10px #303030;
+
+  & img.band_logo {
+  }
+
+  & img.avatar {
+  }
+
+  a, a:visited, a:link, a:active, a:hover {
+    color: white !important;
+    text-decoration: none;
+
+    font-size: 16pt;
+    text-align: center;
+
+    & i.fas {
+      color: white;
+    }
+  }
+}
+

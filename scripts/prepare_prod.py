@@ -7,7 +7,7 @@ class ProdPrep:
 
     def perform(self):
         print("Perform")
-        populate_gallery('pictures/dates/');
+        populate_gallery("")
 
 
 ProdPrep().perform()

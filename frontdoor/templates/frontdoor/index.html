@@ -1,18 +1,14 @@
 {% extends "responsive.html" %}
 {%  load static %}
 
-{% block main %}
-    <div class="splash">
-
+{% block splash %}
+        <a href="home">
         <img class="band_logo" src="{% static 'frontdoor/svg/thebluesharvest_2023_logo.svg' %}" />
-        <A href="home">ENTRER</A>
-        <img class="avatar" src="{% static 'frontdoor/svg/regis.svg' %}"/>
-        <img class="avatar" src="{% static 'frontdoor/svg/cecile.svg' %}"/>
-        <img class="avatar" src="{% static 'frontdoor/svg/david.svg' %}"/>
-        <img class="avatar" src="{% static 'frontdoor/svg/alex.svg' %}"/>
-    </div>
-{% endblock main %}
+        </a>
+{% endblock splash %}
 
+{% block main %}
+{% endblock main %}
 
 {% block custom_js %}
 <script>

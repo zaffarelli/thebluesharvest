@@ -13,11 +13,10 @@ class Frontdoor{
            let picture_ref = $(this).attr('ref');
            console.log(picture_ref);
            $(".popin").html("<img src='"+picture_ref+"'>");
-
-
-
         });
         $('#overlay').off('click').on('click', function(e){
+            e.preventDefault();
+            e.stopPropagation();
             e.preventDefault();
             e.stopPropagation();
            $('#overlay').addClass('hidden');

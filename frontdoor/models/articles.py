@@ -13,6 +13,14 @@ class Article(models.Model):
     display_title = models.BooleanField(default=False, blank=True)
     display_author = models.BooleanField(default=False, blank=True)
 
+    def fix(self):
+        title = self.title
+        title = title.replace('é', 'e').replace('è', 'e').replace('ê', 'e').replace('ç', 'c').replace('ù', 'u').replace(
+            'à', 'a').replace(' ', '_')
+        title = title.upper()
+        if title != self.title:
+            self.title = title
+
     def get_absolute_url(self):
         return reverse("article-detail", kwargs={"pk": self.pk})
 
@@ -24,4 +32,3 @@ class ArticleAdmin(admin.ModelAdmin):
     list_display = ['title', 'label', 'description', 'author', 'display_title', 'display_author']
     search_fields = ['title', 'description', 'author']
     list_editable = ['label', 'display_title', 'display_author', 'author']
-

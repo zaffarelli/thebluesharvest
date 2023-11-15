@@ -5,3 +5,12 @@
     {% include "frontdoor/tools/pictures.html" with pictures=pictures %}
 {% endblock content %}
 
+{% block custom_js %}
+<script>
+    _.defer(function () {
+        let co = new Frontdoor()
+        co.perform();
+    });
+</script>
+{% endblock custom_js %}
+
