@@ -22185,3 +22185,17 @@ FileNotFoundError: [Errno 2] No such file or directory: '/srv/thebluesharvest_me
 [2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
 [2023-11-15] "GET /contacts HTTP/1.1" 200 5105
 [2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
+[2023-11-15] Watching for file changes with StatReloader
+[2023-11-15] "GET / HTTP/1.1" 200 2466
+[2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
+[2023-11-15] "GET /home HTTP/1.1" 200 6657
+[2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
+[2023-11-15] "GET /contacts HTTP/1.1" 200 5168
+[2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
+[2023-11-15] "GET /contacts HTTP/1.1" 200 5193
+[2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
+[2023-11-15] "GET /contacts HTTP/1.1" 200 5215
+[2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
+[2023-11-15] "GET /static/frontdoor/favicon.svg HTTP/1.1" 200 5719
+[2023-11-15] "GET /concerts HTTP/1.1" 200 10668
+[2023-11-15] "GET /static/CACHE/css/main.dc91e9ce1719.css HTTP/1.1" 200 14874
